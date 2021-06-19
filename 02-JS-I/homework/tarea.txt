@@ -1,0 +1,22 @@
+
+Variable
+ * Imagina que tienes una caja y a esta caja le pones un nombre, en esta caja puedes guardar valores alfanumericos es decir
+   números y/o letras.Una variable es como esa caja, es algo que va a contener los valores que tu le asignes para utilizarlo
+   en el momento que lo necesites.
+
+Strings
+ * Es una cadena de caracteres alfanumericos sin espacios entre ellos, un ejemplo puede ser "ratón15".
+
+Función
+ * Es una serie de pasos, ahora las funciones pueden regresar valores ejemplo(5,8,13), estos valores pueden ser utilizados 
+   en otras funciones o bien solo mostrarse en tu pantalla o simplemente hacer acciones como imprimir cadenas. Las funciones
+   también pueden requerir o no datos de entrada por ejemplo una suma necesita que le coloques los números a sumar, pero 
+   una función que solo imprime un 'Hola' no requiere datos de entrada.
+
+Declarciones
+ * Cuando necesitamos que nuestro código decida entre hacer un acción y otra ocupamos las declaraciones, en este caso el IF
+   nos ayuda a decidir, si se cumplen éstos requisitos vas a realizar la acción 1 de lo contrario realizaras la acción 2.
+   ejemplo: si tu estas sucio por jugar entonces te tienes que bañar, si no estas sucio entonces puedes ir a cenar.
+
+Valores Booleanos
+ * Estos son los más sencillos pues son respuestas de verdad(True) o falso (False), un ejemplo es 3<5 es Verdad, 10>2 Falso.

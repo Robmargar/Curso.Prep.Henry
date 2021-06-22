@@ -1,0 +1,18 @@
+
+FOR
+ Lo utilizas cuando necesitas relizar una tarea (código) por cierta cantidad de veces, para utilizarla necesitas saber tres cosas
+  1.- Que valor tienes al iniciar
+  2.- Cuando vas a parar de realizar la Tarea.
+  3.- Cuanto va a crecer tu valor inicial después de cada ejecución de la Tarea.
+
+Existirán ocasiones en las que para realiar la tarea debas de contemplar dos o más valores, en esos casos necesitarás ocupar el FOR
+de forma anidada es decir uno dentro del otro, de esta forma lograrás relizar tu tarea de manera correcta.
+
+Operadores 
+Los operadores nos ayudarán a tomar desiciones para saber en que momento nuestra Tarea(código) debe ser realizada y al realizarla
+nos devolverá valores booleanos es decir Verdaderos (True) o Falsos (False), éstos operadores son
+
+&& == "Y" esto quiere decir que se debe cumplir la condición 1 y también la condición 2 para poder realizar la Tare.a 
+|| == "O" este operador lo que nos dice es que solo una de las dos condiciones se debe cumplir para realizar la Tarea.
+!  ==  "NO" este operador lo que nos indica es que la condición va a ser negada, es como decir que es lo contrario.
+

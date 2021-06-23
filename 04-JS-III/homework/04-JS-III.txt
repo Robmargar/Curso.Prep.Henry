@@ -1,0 +1,6 @@
+Arrays
+
+Array significa arreglo, para entenderlo imagina una fila de cajas una puesta inmediatamente despues de la otra, 
+la primera se va a llamar 0, la segunda será 1 y así sucesivamente, éste "nombre" es la posición del arreglo en donde 
+guardaremos valores tales como números, cadenas, letras, etc..
+

@@ -1,0 +1,15 @@
+Objetos
+ Los objetos son colecions de propiedades 
+
+Propiedades
+ Las propiedades son las características de los objetos y pueden ser de valores enteros, string, array.
+
+Métodos
+ Los metodos son funciones que se encuentran declaradas como Propiedad en un objeto
+
+Bucle For
+ El bucle for nos ayuda a recorrer arrays desde un inicio hasta un largo determinado o bien hasta el final del array.
+
+Notacion de puntos Vs Notacion de corchetes
+ Notacion de punto nos ayuda a acceder a el valor que se encuentra dentro de la propiedad del objeto
+ Notacion de corchetes nos ayuda a ubicar a la propiedad cuando ya sabemos o no su nombre, y también a crear nuevas propiedades dentro de los objetos.

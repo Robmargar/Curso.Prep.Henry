@@ -1,0 +1,8 @@
+prototype
+
+Es el molde principal de muchos diferentes tipos de clases que ayudan a hacer objetos.
+
+
+Constructors (de Clases)
+
+Una clase es un molde que nos sirve para crear nuevos objetos con caracteristicas iguales para todos.

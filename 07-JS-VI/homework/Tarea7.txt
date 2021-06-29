@@ -1,0 +1,8 @@
+Funciones Callback
+Las funciones callback son funciones que pueden hacer lo siguiente con otras funciones:
+* Pueden recibir funciones como argumentos
+* Pueden retornar funciones como resultado
+* Pueden guardar las funciones en variables
+* Pueden guardar las funciones en estructuras de datos
+
+
